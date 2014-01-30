@@ -1,0 +1,24 @@
+@charset "UTF-8";
+/* CSS Document */
+
+#dotNav {
+	position: relative;
+	width: 128px;
+	left: 50%;
+	margin-left: -64px;
+	text-align: center;
+	height: 23px;
+	padding-top: 0px;
+	margin-top: 10px;
+}
+		
+#dotNav .dot {
+	display: block;
+	float: left;
+	margin-right: 20px;
+	width: 12px;
+	height: 12px;
+	background: #ad2f2a;
+	cursor: pointer;
+	border-radius: 6px;
+}
