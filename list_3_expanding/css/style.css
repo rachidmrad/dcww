@@ -1,0 +1,385 @@
+@charset "UTF-8";
+/* CSS Document */
+
+* {
+	border: 0;
+	padding: 0;
+	margin: 0;
+	-webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+      -ms-box-sizing: border-box;
+          box-sizing: border-box;
+}
+html {
+	height: 100%;
+}
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	height: 100%;
+}
+#wrapper {
+	position:relative;
+	padding-bottom: 20px;
+	display: block;
+	width: 100%;
+	min-width: 320px;
+	min-height: 100%;
+	overflow: hidden;
+}
+h2 {
+	font-size: 20px;
+	color: #333;
+	margin-bottom: 15px;
+	margin-right: 1.56%;
+	margin-left: 1.56%;
+}
+h3 {
+	font-size: 14px;
+	color: #333;
+	margin-bottom: 15px;
+	margin-right: 1.56%;
+	margin-left: 1.56%;
+}
+h4 {
+	margin-right: 1.56%;
+	margin-left: 1.56%;
+	color: #ad2f2a;
+	font-size: 14px;
+}	
+p {
+	font-size: 14px;
+	color: #333;
+	margin-bottom: 10px;
+	margin-right: 1.56%;
+	margin-left: 1.56%;
+}
+a:link, a:visited, a:active {
+	text-decoration: none;
+	color: #393894;
+	transition: text-decoration 0.3s, color 0.3s;
+	-webkit-transition: text-decoration 0.3s, color 0.3s;
+	-moz-transition: text-decoration 0.3s, color 0.3s;
+}
+a:focus, a:hover {
+	color: #ad2f2a;
+	text-decoration: underline;
+}
+.clearFix {
+	clear: both;
+}
+.expander {
+	width: 100%;
+	height: auto;
+}
+#header {
+	position: relative;
+	width: 100%;
+}
+#header img {
+	position: relative;
+	width: 17%;
+	height: auto;
+	top: 0.5%;
+	left: 0.5%;
+}
+#content {
+	position: relative;
+	width: 100%;	
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 0px;
+}
+	
+	#nav {
+		position: relative;
+		top: 0;
+		padding-left: 0px;
+		width: 101%;
+		z-index: 10;
+		height: 35px;
+		overflow: hidden;
+		border-top: solid 1px #CCC;
+	}
+	
+	#nav ul {
+		list-style-type: none;
+	}
+	
+	#nav li {
+		display: inline-block;
+		background-color: #182247;
+		position: relative;
+		height: 35px;
+		top: 0;
+		left: 0;
+		width: 100%;
+		margin-right: 0%;
+		margin-left: 0%;
+		margin-bottom: 0px;
+		border-bottom: solid 1px #CCC;
+		transition: background 350ms, border 350ms;
+		-webkit-transition: background 350ms, border 350ms;
+	}
+	
+		#nav li:hover {
+			background-color: #182247;
+			border-bottom: solid 1px #ad2f2a;
+		}
+	
+	#nav li a {
+		text-decoration: none;
+		display: block;
+		width: 100%;
+		text-align: center;
+		color: white;
+		font-size: 11px;
+		font-weight: 200;
+		height: 35px;
+		padding-top:11px;
+	}
+		#arrow, #arrow2 {
+			display: block;
+			position: absolute;
+			top: 0px;
+			right: 0px;
+			width: 35px; 
+			height: 35px; 
+			cursor: pointer;
+		}
+			#arrow img, #arrow2 img {
+				width: 100%;
+				height: 100%;
+			}
+		
+				#nav #dropDown {
+					position: relative;
+					display: none;
+					width: 100%; 
+					padding-bottom: 3px; 
+					padding-left: 0; 
+					margin-left: 0;
+					margin-top: -3px;
+					background-image: none;
+				}
+					#dropDown li {
+						position: relative!important;
+						float: left;
+						background-image: none!important;
+						background:#393894!important;
+						padding: 5px!important;
+						margin-bottom: 0px!important;
+						display: block!important;
+						height: 35px!important;
+						width: 50%!important;
+						opacity: 0.8!important;
+						color: white!important;
+						text-align: left!important;
+						border: 0;
+					}
+						#dropDown li a {
+							position: relative;
+							display: block;
+							height: 35px;
+							width: 100%;
+							top: 0;
+							left: 0;
+							padding-top: 3px;
+							text-align: left;
+					    }	
+						
+							#dropDown #desktopHoverController {
+								position: absolute;
+								z-index: 12;
+								display: none;
+								height: 35px;
+								width: 100%;
+								top: 0;
+								left: 0;
+							}
+								
+	
+	#content #richContent, #content #subcontent {
+		position: relative;
+		width: 100%;
+	}
+	#richContent {
+		/*background-color: #182247;*/
+		background-image: linear-gradient(right bottom, rgb(57,56,148) 9%, rgb(57,152,204) 50%, rgb(57,56,148) 86%);
+		background-image: -o-linear-gradient(right bottom, rgb(57,56,148) 9%, rgb(57,152,204) 50%, rgb(57,56,148) 86%);
+		background-image: -moz-linear-gradient(right bottom, rgb(57,56,148) 9%, rgb(57,152,204) 50%, rgb(57,56,148) 86%);
+		background-image: -webkit-linear-gradient(right bottom, rgb(57,56,148) 9%, rgb(57,152,204) 50%, rgb(57,56,148) 86%);
+		background-image: -ms-linear-gradient(right bottom, rgb(57,56,148) 9%, rgb(57,152,204) 50%, rgb(57,56,148) 86%);
+		background-image: -webkit-gradient(
+			linear,
+			right bottom,
+			left top,
+			color-stop(0.09, rgb(57,56,148)),
+			color-stop(0.5, rgb(57,152,204)),
+			color-stop(0.86, rgb(57,56,148))
+		);
+			}
+	
+	#subContent .column {
+		position: relative;
+		width: 100%;
+		margin-top: 20px;
+		padding-bottom: 30px;
+	}
+	
+	.column h3 {
+		font-size: 14px;
+		color: #333;
+		margin-bottom: 15px;
+		margin-right: 1.56%;
+		margin-left: 1.56%;
+	}
+	
+	.column p {
+		font-size: 14px;
+		color: #333;
+		margin-bottom: 10px;
+		margin-right: 1.56%;
+		margin-left: 1.56%;
+	}
+	
+#footer {
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+	height: 20px;
+	background-color: #ad2f2a;
+}
+
+#footer p {
+	position: absolute;
+	display: block;
+	width: 98%;
+	left: 1%;
+	top: 5px;
+	color: white;
+	font-size: 9px;
+	text-align: center;
+	margin-bottom: 0!important;
+}
+.dropShadow {
+	display: block;
+	position: absolute;
+	width: 100%;
+	height: 20px;
+	bottom: -20px;
+	background-image: url(../images/dropShadow.png);
+	background-repeat: repeat-x;
+}
+
+.column .dropShadow {
+	display: block;
+	width: 100%;
+}
+
+@media all and (min-width: 481px) {
+	
+	#nav {
+		overflow: visible;
+		border-top: 0px;
+	}
+	
+	#nav li {
+		display: inline-block;
+		width: 16.5%;
+		height: 35px;
+		background-color: transparent;
+		margin-right: 0;
+		margin-left: 0;
+		margin-top: 0;
+		margin-bottom: 0;
+		border-bottom: solid 4px #CCC;
+	}
+	
+		#nav li:hover {
+			background-color: #182247;
+			border-bottom: solid 4px #ad2f2a;
+		}
+	
+	#homeButton {
+		width: 17.5%!important;
+	}
+	
+ 	#nav li a {
+		font-size: 11px;
+		font-weight: 200;
+		height: 35px;
+		padding-top: 11px;
+		overflow: visible;
+	}
+	
+			#desktopHoverController {
+					display: block;
+					cursor: pointer;
+			}	
+				#nav #dropDown {
+					display: none;
+					position: absolute;
+					width: 508px; 
+					padding-bottom: 3px; 
+					bottom: 0;
+					left: 0%;
+					top: 38px;
+					z-index: 13;
+					height: 314px;
+					background-image: url(../images/transBkg.png);
+				}
+					#dropDowner:hover > #dropDown {
+						display: block!important;
+					}
+					
+					#dropDown li {
+						position: relative!important;
+						float: left;
+						background-image: none!important;
+						background:none!important;
+						padding: 5px!important;
+						margin-bottom: 0px!important;
+						display: block!important;
+						height: 35px!important;
+						width: 248px!important;
+						opacity: 1!important;
+						color: white!important;
+						text-align: left!important;
+						border-bottom: solid white 1px;
+					}	
+						#dropDown li a {
+							position: relative;
+							display: block;
+							height: 35px;
+							width: 100%;
+							top: 0;
+							left: 0;
+							padding-top: 8px;
+					    }	
+				
+	#arrow, #arrow2 {
+		display: none;
+	}
+	
+	#subContent .column {
+		position: relative;
+		display: block;
+		width: 33.33%;
+		float: left;
+		padding-left: 1.56%;
+		padding-right: 1.56%;
+		margin-bottom: 50px;
+		margin-top: 60px;
+	}
+	#midColumn {
+		border-right: solid 2px #ad2f2a;
+		border-left: solid 2px #ad2f2a;
+	}
+	.column h3 {
+		
+	}
+	.column .dropShadow {
+		display: none;
+	}
+}

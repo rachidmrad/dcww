@@ -1,0 +1,55 @@
+@charset "utf-8";
+.topNav {
+	color: #F26F21;
+	font-size: 20px;
+	width: 90%;
+	margin-left: auto;
+	margin-right: auto;
+	font-weight: bold;
+	margin-bottom: 10px;
+}
+/* Page Styles */
+
+#orangeHome {
+	width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 25px;
+}
+#orangeContent {
+	overflow-x: hidden;
+	overflow-y: auto;
+	position: relative;
+}
+#whatContent h1 {
+	position: relative;
+	font-size: 18px;
+}
+#orangeContent .orangeBG {
+	width: 100%;
+	margin-left: auto;
+	padding-left: 25px;
+	padding-right: 25px;
+	padding-bottom: 20px;
+	background-color: #DD6F21;
+	color: #FFFFFF;
+	padding-top: 20px;
+	border-bottom: 1px solid #FFFFFF;
+}
+
+h1, h2, #orangeContent p, li, h3 {
+	margin-bottom: 1em;
+}
+ul {
+	margin-left: 20px;
+	list-style-position: inside;
+}
+li a, #orangeContent a {
+	color: white!important;
+	font-weight: bold;
+}
+.linksList {padding-top: 1em;}
+.linksList li {
+	margin-bottom: 1.5em;
+	list-style:square inside url("../images/whatwedo/linksList.png");
+}

@@ -1,0 +1,27 @@
+@charset "utf-8";
+
+#intro {
+	height: 139px;
+	/* fallback */ background-color: #3CF;
+	/* Safari 4-5, Chrome 1-9 */ background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#0059a9), to(#3CF)); 
+	/* Safari 5.1, Chrome 10+ */ background: -webkit-linear-gradient(top, #0059a9, #3CF); 
+	/* Firefox 3.6+ */ background: -moz-linear-gradient(top, #0059a9, #3CF); 
+	/* IE 10 */ background: -ms-linear-gradient(top, #0059a9, #3CF); 
+	/* Opera 11.10+ */ background: -o-linear-gradient(top, #0059a9, #3CF);
+}
+
+h1#introText {
+	float: left;
+	margin-top: 25px;
+	line-height: 25px;
+	color: white!important;
+}
+
+#videoContent {
+	padding: 0;
+}
+
+#videoContent video {
+	width: 100%;
+	height: auto; 
+}

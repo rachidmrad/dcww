@@ -1,0 +1,1647 @@
+<zuiprezi>
+  <version>10</version>
+  <zui-table>
+    <settings>
+      
+      <autoplay>
+        
+        <delay>4000</delay>
+        
+      </autoplay>
+      
+      <bounds x="-18292.206167835622" y="-11207.361689844216" width="36584.41233567125" height="22414.723379688432"/>
+      <aspectratio>off</aspectratio>
+      <languages>
+        <language>en</language>
+      </languages>
+      <mode type="normal"/>
+    </settings>
+    <object id="1" type="button" x="1691.7702063579625" y="57.845284688868304" r="0" s="22.20240675165609" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1063.0970149253733</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <parentTemplate>mobility</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="30" type="button" x="-1328.451954944028" y="1088.586348379433" r="0" s="3.682482653618637" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>1060.3448275862067</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <parentTemplate>mobility</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="36" type="text" x="-1136.6688458451126" y="377.9596062773141" r="0" s="6.695808759022521" class="head">
+      <height>28.8</height>
+      <width>525</width>
+      <p>
+        <text><![CDATA[Responsive Web Design (RWD) Concepts]]></text>
+      </p>
+    </object>
+    <object id="37" type="text" x="-1382.5444616626974" y="1067.5892551831382" r="0" s="6.695808759022521" class="strong">
+      <height>130.734375</height>
+      <width>435</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Responsive vs. Adaptive]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Responsive vs. Separate Mobile (or one site vs. dual sites)]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Native Apps vs. Web Apps]]></text>
+      </p>
+    </object>
+    <object id="38" type="button" x="-6734.700000000001" y="398.69999999999993" r="0" s="2.9479735777319305" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>1060.3448275862067</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <parentTemplate>mobility</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="39" type="text" x="-6760.024251102763" y="519.7042673853558" r="0" s="4.872964336054293" class="body">
+      <height>163.41796875</height>
+      <width>514.7743638775873</width>
+      <p>
+        <text><![CDATA["71% of mobile users expect mobile websites to load as fast, if not faster, than desktop websites, and 74% of mobile visitors will abandon a website if it takes more than 5 seconds to load."–Brad Frost]]></text>
+      </p>
+    </object>
+    <object id="40" type="text" x="-6734.6806671372415" y="-186.75704521892976" r="0" s="5.860069939245146" class="strong">
+      <height>32.68359375</height>
+      <width>435</width>
+      <p align="center">
+        <text><![CDATA[Speed]]></text>
+      </p>
+    </object>
+    <object id="42" type="button" x="-2771.5920776086637" y="3971.715745012781" r="0" s="3.045242009767175" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>1060.3448275862067</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <parentTemplate>mobility</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="43" type="text" x="-2888.7106545966117" y="4229.198591447225" r="0" s="4.576134424350954" class="body">
+      <height>228.78515625</height>
+      <width>525</width>
+      <p>
+        <text><![CDATA[• ]]></text>
+        <text weight="bold"><![CDATA[Twitter Bootstrap]]></text>
+      </p>
+      <p>
+        <text><![CDATA[http://getbootstrap.com/getting-started/]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text><![CDATA[• ]]></text>
+        <text weight="bold"><![CDATA[Foundation.js]]></text>
+      </p>
+      <p>
+        <text><![CDATA[http://foundation.zurb.com/templates/workspace.html]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+    </object>
+    <object id="44" type="text" x="-2771.5721068578105" y="3351.7861855455635" r="0" s="6.053423034032989" class="strong">
+      <height>32.68359375</height>
+      <width>435</width>
+      <p align="center">
+        <text><![CDATA[Frameworks]]></text>
+      </p>
+    </object>
+    <object id="4_30863873" type="text" x="-1725.8524033978058" y="-3527.5724063813113" r="0" s="31.101429323305226" class="head">
+      <height>115.2</height>
+      <width>460.5382799284241</width>
+      <p>
+        <text><![CDATA[Mobile UI Design]]></text>
+      </p>
+      <p>
+        <text><![CDATA[@rachidmrad]]></text>
+      </p>
+      <p>
+        <text><![CDATA[rachidmrad.com]]></text>
+      </p>
+      <p>
+        <text><![CDATA[https://github.com/rachidmrad/DCWW]]></text>
+      </p>
+    </object>
+    <object id="2" type="text" x="-6724.383199620147" y="1115.6003540044394" r="0" s="1.8787386993951651" class="body">
+      <height>65.3671875</height>
+      <width>1368.399788620418</width>
+      <p>
+        <text><![CDATA[Frost, Brad. "Separate Mobile Website Vs. Responsive Website."]]></text>
+      </p>
+      <p>
+        <text><![CDATA[http://mobile.smashingmagazine.com/2012/08/22/separate-mobile-responsive-website-presidential-smackdown/]]></text>
+      </p>
+    </object>
+    <object id="3" type="text" x="-1291.7963556185289" y="1898.0369030872544" r="0" s="2.5890759393913303" class="body">
+      <height>130.734375</height>
+      <width>1266.1723193589642</width>
+      <p>
+        <text><![CDATA[(1) Faletsky, Igor. "The Two Flavors of a 'One Web' Approach: Responsive vs. Adaptive." ]]></text>
+      </p>
+      <p>
+        <text><![CDATA[http://www.webmonkey.com/2013/05/the-two-flavors-of-a-one-web-approach-responsive-vs-adaptive/ ]]></text>
+      </p>
+      <p>
+        <text><![CDATA[(2) Williams, Tanya. "The difference between responsive and adaptive web design."]]></text>
+      </p>
+      <p>
+        <text><![CDATA[http://www.responsys.com/blogs/nsm/cross-channel-marketing/difference-responsive-adaptive-web-design/]]></text>
+      </p>
+    </object>
+    <object id="4" type="text" x="-2775.0610176429764" y="4733.167266311949" r="0" s="1.940727710719581" class="body">
+      <height>32.68359375</height>
+      <width>1354.4543130675988</width>
+      <p>
+        <text><![CDATA[http://designinstruct.com/roundups/html5-frameworks/]]></text>
+      </p>
+    </object>
+    <object id="24" type="button" x="-9068.933231956316" y="4203.684543654571" r="0" s="3.045242009767175" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>1060.3448275862067</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <parentTemplate>mobility</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="28" type="text" x="-9067.907767605486" y="4373.688892073435" r="0" s="2.8414194412645393" class="body">
+      <height>294.15234375</height>
+      <width>960.7100115745249</width>
+      <p>
+        <text><![CDATA[• http://www.mobile-patterns.com/]]></text>
+      </p>
+      <p>
+        <text><![CDATA[• http://pttrns.com/]]></text>
+      </p>
+      <p>
+        <text><![CDATA[• http://inspired-ui.com/]]></text>
+      </p>
+      <p>
+        <text><![CDATA[• http://www.mobilepatterns.com/]]></text>
+      </p>
+      <p>
+        <text><![CDATA[• http://www.mobiledesignpatterngallery.com/mobile-patterns.php]]></text>
+      </p>
+      <p>
+        <text><![CDATA[• http://www.lovelyui.com/]]></text>
+      </p>
+      <p>
+        <text><![CDATA[• http://androidux.com/]]></text>
+      </p>
+      <p>
+        <text><![CDATA[• http://www.androidpatterns.com/uap_category/navigation]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+    </object>
+    <object id="29" type="text" x="-9114.40976208598" y="3601.621980920606" r="0" s="6.053423034032989" class="strong">
+      <height>32.68359375</height>
+      <width>435</width>
+      <p align="center">
+        <text><![CDATA[UI Mood Boards]]></text>
+      </p>
+    </object>
+    <object id="32" type="button" x="1980.5186984180416" y="4225.933470963625" r="0" s="3.045242009767175" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>1072.7339839278466</w>
+        <h>596.2496401362769</h>
+      </size>
+      <meta>
+        <parentTemplate>mobility</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="33" type="text" x="1848.761350344742" y="4442.947205303678" r="0" s="2.858305620362806" class="body">
+      <height>326.8359375</height>
+      <width>868.1600115745248</width>
+      <p>
+        <text><![CDATA[• ]]></text>
+        <text color="16744448" weight="bold"><![CDATA[Action Bar]]></text>
+        <text><![CDATA[ - highlight important functionalities.]]></text>
+      </p>
+      <p>
+        <text><![CDATA[• ]]></text>
+        <text color="16744448" weight="bold"><![CDATA[Dashboard]]></text>
+        <text><![CDATA[ - highlight important functionalities.]]></text>
+      </p>
+      <p>
+        <text><![CDATA[• ]]></text>
+        <text color="16744448" weight="bold"><![CDATA[Drill Down]]></text>
+        <text><![CDATA[ (possibly combined with lists and stepping) - move through vast amounts of content.]]></text>
+      </p>
+      <p>
+        <text><![CDATA[• ]]></text>
+        <text color="16744448" weight="bold"><![CDATA[Expandable List]]></text>
+        <text><![CDATA[ - move through content.]]></text>
+      </p>
+      <p>
+        <text><![CDATA[• ]]></text>
+        <text color="16744448" weight="bold"><![CDATA[Tabs]]></text>
+        <text><![CDATA[ - move through content.]]></text>
+      </p>
+      <p>
+        <text><![CDATA[• ]]></text>
+        <text color="16744448" weight="bold"><![CDATA[Header Effects]]></text>
+        <text><![CDATA[ - for unobtrusive navigation.]]></text>
+      </p>
+      <p>
+        <text><![CDATA[• ]]></text>
+        <text color="16744448" weight="bold"><![CDATA[Scrollable Rows]]></text>
+        <text><![CDATA[ - move through content.]]></text>
+      </p>
+      <p>
+        <text><![CDATA[• ]]></text>
+        <text color="16744448" weight="bold"><![CDATA[Stepping]]></text>
+        <text><![CDATA[ - move through content.]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+    </object>
+    <object id="34" type="text" x="1935.0421682883743" y="3623.87090822966" r="0" s="6.053423034032989" class="strong">
+      <height>32.68359375</height>
+      <width>435</width>
+      <p align="center">
+        <text><![CDATA[Mobile Navigation]]></text>
+      </p>
+    </object>
+    <object id="41" type="button" x="6850.750756417442" y="3764.1003294931743" r="0" s="3.045242009767175" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>1060.3448275862067</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <parentTemplate>mobility</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="49" type="text" x="6805.274226287778" y="3162.03776675921" r="0" s="6.053423034032989" class="strong">
+      <height>32.68359375</height>
+      <width>435</width>
+      <p align="center">
+        <text><![CDATA[Example 1: Simple List]]></text>
+      </p>
+    </object>
+    <object id="54" type="button" x="9971.597857675148" y="-853.9988810087608" r="0" s="3.476461480813078" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>1066.0248916777118</w>
+        <h>593.0635074391062</h>
+      </size>
+      <meta>
+        <parentTemplate>mobility</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="55" type="text" x="10488.520948933672" y="-713.5900870668972" r="0" s="4.317466858176489" class="body">
+      <height>196.1015625</height>
+      <width>960.7100115745249</width>
+      <p>
+        <text><![CDATA[<nav>]]></text>
+      </p>
+      <p indent="1">
+        <text><![CDATA[<a href="index.html">Home</a>]]></text>
+      </p>
+      <p indent="1">
+        <text><![CDATA[<a href="#">Link</a>]]></text>
+      </p>
+      <p>
+        <text><![CDATA[      <a href="#">Link</a>]]></text>
+      </p>
+      <p>
+        <text><![CDATA[</nav>]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+    </object>
+    <object id="56" type="text" x="9919.681653718368" y="-1541.3161128317447" r="0" s="6.910613979902138" class="strong">
+      <height>32.68359375</height>
+      <width>435</width>
+      <p align="center">
+        <text><![CDATA[Example 1: Markup]]></text>
+      </p>
+    </object>
+    <object id="57" type="text" x="6292.059381519957" y="3893.723473659768" r="0" s="5.033747866786047" class="body">
+      <height>163.41796875</height>
+      <width>281.4324045955163</width>
+      <p>
+        <text><![CDATA[• Simple List Nav]]></text>
+      </p>
+      <p>
+        <text><![CDATA[• Mobile First]]></text>
+      </p>
+      <p>
+        <text><![CDATA[• CSS3 Selectors]]></text>
+      </p>
+      <p>
+        <text style="italic"><![CDATA[]]></text>
+      </p>
+      <p>
+        <text style="italic"><![CDATA[Try adding a nav anchor]]></text>
+      </p>
+    </object>
+    <object id="62" type="button" x="9293.563869733114" y="-3904.8839770471113" r="0" s="3.476461480813078" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>1066.0248916777118</w>
+        <h>593.0635074391062</h>
+      </size>
+      <meta>
+        <parentTemplate>mobility</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="63" type="text" x="9294.442045363696" y="-3732.2529345173566" r="0" s="3.243776752950029" class="body">
+      <height>392.203125</height>
+      <width>960.7100115745249</width>
+      <p>
+        <text><![CDATA[nav {...}]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text><![CDATA[nav a {...}]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text><![CDATA[nav a:nth-of-type(2) {]]></text>
+      </p>
+      <p indent="1">
+        <text><![CDATA[border-top: dashed thin #3C2415;]]></text>
+      </p>
+      <p indent="1">
+        <text><![CDATA[border-bottom: dashed thin #3C2415;]]></text>
+      </p>
+      <p indent="1">
+        <text><![CDATA[border-right: none;]]></text>
+      </p>
+      <p indent="1">
+        <text><![CDATA[border-left: none;]]></text>
+      </p>
+      <p>
+        <text><![CDATA[}]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text><![CDATA[@media only screen and (min-width : 650px) {...}]]></text>
+      </p>
+    </object>
+    <object id="64" type="text" x="9241.647665776336" y="-4592.201208870092" r="0" s="6.910613979902138" class="strong">
+      <height>32.68359375</height>
+      <width>435</width>
+      <p align="center">
+        <text><![CDATA[Example 1: CSS]]></text>
+      </p>
+    </object>
+    <object id="65" type="button" x="4806.818106460995" y="-6960.3998208983485" r="0" s="2.9479735777319305" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>1060.3448275862067</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <parentTemplate>mobility</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="66" type="text" x="4764.524935822976" y="-6927.969661321528" r="0" s="4.4299675782311745" class="body">
+      <height>130.734375</height>
+      <width>557.1977466824062</width>
+      <p>
+        <text><![CDATA[• Mobile browsers create a virtual viewport that is 980px wide.]]></text>
+      </p>
+      <p>
+        <text><![CDATA[• <meta name="viewport" content="width=device-width, initial-scale=1">]]></text>
+      </p>
+    </object>
+    <object id="67" type="text" x="4806.837439323755" y="-7545.856866117282" r="0" s="5.860069939245146" class="strong">
+      <height>32.68359375</height>
+      <width>435</width>
+      <p align="center">
+        <text><![CDATA[Viewport Meta]]></text>
+      </p>
+    </object>
+    <object id="68" type="text" x="4815.904532366204" y="-6229.2271229879525" r="0" s="1.8787386993951647" class="body">
+      <height>65.3671875</height>
+      <width>1368.399788620418</width>
+      <p>
+        <text><![CDATA[https://developer.apple.com/library/ios/documentation/AppleApplications/Reference/SafariWebContent/UsingtheViewport/UsingtheViewport.html]]></text>
+      </p>
+    </object>
+    <object id="69" type="button" x="1365.165624325704" y="-8468.752007421499" r="0" s="2.9479735777319305" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>1060.3448275862067</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <parentTemplate>mobility</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="70" type="text" x="1319.616671358748" y="-8324.792351204575" r="0" s="4.429967578231175" class="body">
+      <height>228.78515625</height>
+      <width>557.1977466824062</width>
+      <p>
+        <text><![CDATA[/* iPads (portrait) ----------- */]]></text>
+      </p>
+      <p>
+        <text><![CDATA[@media only screen ]]></text>
+      </p>
+      <p>
+        <text><![CDATA[and (min-device-width : 768px) ]]></text>
+      </p>
+      <p>
+        <text><![CDATA[and (max-device-width : 1024px) ]]></text>
+      </p>
+      <p>
+        <text><![CDATA[and (orientation : portrait) {]]></text>
+      </p>
+      <p>
+        <text><![CDATA[...]]></text>
+      </p>
+      <p>
+        <text><![CDATA[}]]></text>
+      </p>
+    </object>
+    <object id="71" type="text" x="1365.1849571884634" y="-9054.209052640434" r="0" s="5.860069939245149" class="strong">
+      <height>32.68359375</height>
+      <width>435</width>
+      <p align="center">
+        <text><![CDATA[Media Queries]]></text>
+      </p>
+    </object>
+    <object id="72" type="text" x="1391.2312179810986" y="-7725.725730423276" r="0" s="1.8787386993951651" class="body">
+      <height>32.68359375</height>
+      <width>1368.399788620418</width>
+      <p>
+        <text><![CDATA[http://css-tricks.com/snippets/css/media-queries-for-standard-devices/]]></text>
+      </p>
+    </object>
+    <object id="76" type="button" x="-2602.534286161327" y="-8107.950673760963" r="0" s="3.045242009767175" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>1060.3448275862067</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <parentTemplate>mobility</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="77" type="text" x="-2648.010816290996" y="-8710.013236494928" r="0" s="6.053423034032989" class="strong">
+      <height>32.68359375</height>
+      <width>435</width>
+      <p align="center">
+        <text><![CDATA[Media Queries Resources]]></text>
+      </p>
+    </object>
+    <object id="78" type="text" x="-2599.9627739121725" y="-8060.629307216326" r="0" s="5.033747866786047" class="body">
+      <height>130.734375</height>
+      <width>504.49674206171</width>
+      <p>
+        <text><![CDATA[• http://cssmediaqueries.com/]]></text>
+      </p>
+      <p>
+        <text><![CDATA[• http://css-tricks.com/snippets/css/retina-display-media-query/]]></text>
+      </p>
+      <p>
+        <text><![CDATA[• http://stephen.io/mediaqueries/]]></text>
+      </p>
+    </object>
+    <object id="79" type="button" x="-6733.25149029268" y="-7829.014881572372" r="0" s="3.045242009767175" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>1060.3448275862067</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <parentTemplate>mobility</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="80" type="text" x="-6778.728020422347" y="-8431.077444306336" r="0" s="6.053423034032989" class="strong">
+      <height>32.68359375</height>
+      <width>435</width>
+      <p align="center">
+        <text><![CDATA[Forget IE... or Not?]]></text>
+      </p>
+    </object>
+    <object id="81" type="text" x="-6730.679978043525" y="-7781.693515027731" r="0" s="5.033747866786047" class="body">
+      <height>130.734375</height>
+      <width>504.49674206171</width>
+      <p>
+        <text><![CDATA[• ]]></text>
+        <text color="16744448" weight="bold"><![CDATA[respond.js]]></text>
+        <text><![CDATA[ - simple, used by Bootsrap.]]></text>
+      </p>
+      <p>
+        <text><![CDATA[• ]]></text>
+        <text color="16744448" weight="bold"><![CDATA[css3-mediaqueries.js]]></text>
+        <text><![CDATA[ - more robust, allows height-based queries.]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+    </object>
+    <object id="82" type="text" x="-6789.0789284443845" y="-7160.011363531026" r="0" s="2.5831085829677622" class="body">
+      <height>65.3671875</height>
+      <width>946.1501335433384</width>
+      <p>
+        <text><![CDATA[https://code.google.com/p/css3-mediaqueries-js/]]></text>
+      </p>
+      <p>
+        <text><![CDATA[https://github.com/scottjehl/Respond]]></text>
+      </p>
+    </object>
+    <object id="83" type="button" x="-12642.243147649062" y="-3016.7558720842517" r="0" s="3.045242009767175" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>1060.3448275862067</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <parentTemplate>mobility</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="84" type="text" x="-12687.719677778725" y="-3618.818434818216" r="0" s="6.053423034032989" class="strong">
+      <height>32.68359375</height>
+      <width>435</width>
+      <p align="center">
+        <text><![CDATA[Example 2: Tiered Content]]></text>
+      </p>
+    </object>
+    <object id="87" type="text" x="-12976.740891094858" y="-2889.9812657782945" r="0" s="5.033747866786047" class="body">
+      <height>130.734375</height>
+      <width>374.3150130747785</width>
+      <p>
+        <text><![CDATA[• Simple List Nav]]></text>
+      </p>
+      <p>
+        <text><![CDATA[• CSS3 animate]]></text>
+      </p>
+      <p>
+        <text><![CDATA[• Mobile only]]></text>
+      </p>
+      <p>
+        <text><![CDATA[• Detect Mobile and Redirect]]></text>
+      </p>
+    </object>
+    <object id="88" type="button" x="-13765.564568663478" y="-808.7730592587469" r="0" s="3.0452420097671755" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>1060.3448275862067</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <parentTemplate>mobility</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="89" type="text" x="-13811.041098793145" y="-1410.8356219927114" r="0" s="6.053423034032992" class="strong">
+      <height>32.68359375</height>
+      <width>435</width>
+      <p align="center">
+        <text><![CDATA[JS Detect Mobile]]></text>
+      </p>
+    </object>
+    <object id="90" type="text" x="-13712.8401246738" y="-641.1913159183521" r="0" s="5.033747866786048" class="body">
+      <height>163.41796875</height>
+      <width>525.5090027357704</width>
+      <p>
+        <text><![CDATA[jQuery.browser.mobile ]]></text>
+      </p>
+      <p>
+        <text><![CDATA[(http://detectmobilebrowser.com/)]]></text>
+      </p>
+      <p>
+        <text><![CDATA[ ]]></text>
+      </p>
+      <p>
+        <text><![CDATA[jQuery.browser.mobile will be true if the browser is a mobile device]]></text>
+      </p>
+    </object>
+    <object id="91" type="button" x="-13199.659375918833" y="1463.909012537546" r="0" s="3.0452420097671755" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>1060.3448275862067</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <parentTemplate>mobility</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="92" type="text" x="-13245.135906048505" y="861.8464498035817" r="0" s="6.053423034032992" class="strong">
+      <height>32.68359375</height>
+      <width>435</width>
+      <p align="center">
+        <text><![CDATA[Redirect]]></text>
+      </p>
+    </object>
+    <object id="93" type="text" x="-13239.6523682252" y="1526.896595574379" r="0" s="3.1255613853909927" class="body">
+      <height>196.1015625</height>
+      <width>787.0529928465083</width>
+      <p>
+        <text><![CDATA[if (jQuery.browser.mobile == true)]]></text>
+      </p>
+      <p>
+        <text><![CDATA[{]]></text>
+      </p>
+      <p>
+        <text><![CDATA[ var ]]></text>
+        <text color="16744448"><![CDATA[filename]]></text>
+        <text><![CDATA[ = window.location.href.substr(window.location.href.lastIndexOf("/")+1);]]></text>
+      </p>
+      <p>
+        <text><![CDATA[ window.location.href =  "]]></text>
+        <text color="8028290" style="italic"><![CDATA[project folder]]></text>
+        <text><![CDATA[" + ]]></text>
+        <text color="16744448"><![CDATA[filename]]></text>
+        <text><![CDATA[;]]></text>
+      </p>
+      <p>
+        <text><![CDATA[}]]></text>
+      </p>
+    </object>
+    <object id="95" type="button" x="-5651.36038102423" y="8406.860184750307" r="0" s="3.045242009767175" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>1060.3448275862067</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <parentTemplate>mobility</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="96" type="text" x="-5696.836911153895" y="7804.797622016343" r="0" s="6.053423034032989" class="strong">
+      <height>32.68359375</height>
+      <width>435</width>
+      <p align="center">
+        <text><![CDATA[Example 3: Expandable List]]></text>
+      </p>
+    </object>
+    <object id="97" type="text" x="-5561.453343286343" y="8618.785106538853" r="0" s="5.033747866786047" class="body">
+      <height>196.1015625</height>
+      <width>539.1270476195218</width>
+      <p>
+        <text><![CDATA[• As seen in common Framework templates]]></text>
+      </p>
+      <p>
+        <text><![CDATA[• Mobile First]]></text>
+      </p>
+      <p>
+        <text><![CDATA[• Single Markup Juggling CSS and JS]]></text>
+      </p>
+      <p>
+        <text><![CDATA[(Except for the extra markup controlling hover)]]></text>
+      </p>
+      <p>
+        <text style="italic"><![CDATA[]]></text>
+      </p>
+      <p>
+        <text style="italic"><![CDATA[Try adding a transitional state]]></text>
+      </p>
+    </object>
+    <object id="98" type="button" x="-1327.9850549029234" y="7712.426751399557" r="0" s="2.947973577731931" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>1060.3448275862067</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <parentTemplate>mobility</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="99" type="text" x="-1308.4801778246208" y="7744.856910976379" r="0" s="4.4299675782311745" class="body">
+      <height>130.734375</height>
+      <width>585.0063958051721</width>
+      <p>
+        <text><![CDATA[• JS Animation]]></text>
+      </p>
+      <p>
+        <text><![CDATA[• Backward Compatibility]]></text>
+      </p>
+      <p>
+        <text><![CDATA[• Modular library]]></text>
+      </p>
+      <p>
+        <text><![CDATA[• More power than JQuery, more control than CSS3]]></text>
+      </p>
+    </object>
+    <object id="100" type="text" x="-1327.965722040165" y="7126.9697061806255" r="0" s="5.860069939245148" class="strong">
+      <height>32.68359375</height>
+      <width>435</width>
+      <p align="center">
+        <text><![CDATA[GreenSock]]></text>
+      </p>
+    </object>
+    <object id="101" type="text" x="-1301.9194612475292" y="8455.45302839778" r="0" s="1.8787386993951651" class="body">
+      <height>32.68359375</height>
+      <width>1368.399788620418</width>
+      <p>
+        <text><![CDATA[http://www.greensock.com/]]></text>
+      </p>
+    </object>
+    <object id="104" type="text" x="-924.6205290453222" y="8166.0809920343345" r="0" s="3.1255613853909927" class="body">
+      <height>32.68359375</height>
+      <width>787.0529928465083</width>
+      <p>
+        <text><![CDATA[TweenLite.to(wrapper, foo, {height: bar + 'px' });]]></text>
+      </p>
+    </object>
+    <object id="107" type="button" x="-1002.880857593096" y="10287.698602894528" r="0" s="3.0452420097671755" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>1060.3448275862067</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <parentTemplate>mobility</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="108" type="text" x="-1048.357387722761" y="9685.636040160563" r="0" s="6.053423034032989" class="strong">
+      <height>32.68359375</height>
+      <width>435</width>
+      <p align="center">
+        <text><![CDATA[IOS Reorientation Bug]]></text>
+      </p>
+    </object>
+    <object id="109" type="text" x="-940.6855782194002" y="10613.491020740124" r="0" s="2.3482805299706935" class="body">
+      <height>294.15234375</height>
+      <width>1108.3327194985889</width>
+      <p>
+        <text><![CDATA[if (navigator.userAgent.match(/iPhone/i) || navigator.userAgent.match(/iPad/i)) {]]></text>
+      </p>
+      <p>
+        <text><![CDATA[    var viewportmeta = document.querySelector('meta[name="viewport"]');]]></text>
+      </p>
+      <p>
+        <text><![CDATA[    if (viewportmeta) {]]></text>
+      </p>
+      <p>
+        <text><![CDATA[        viewportmeta.content = 'width=device-width, minimum-scale=1.0, maximum-scale=1.0, initial-scale=1.0';]]></text>
+      </p>
+      <p>
+        <text><![CDATA[        document.body.addEventListener('gesturestart', function () { viewportmeta.content = 'width=device-width, minimum-scale=0.25, maximum-scale=1.6'; }, false);]]></text>
+      </p>
+      <p>
+        <text><![CDATA[    }]]></text>
+      </p>
+      <p>
+        <text><![CDATA[}]]></text>
+      </p>
+    </object>
+    <object id="110" type="button" x="6432.863023731251" y="8100.855851649859" r="0" s="3.0452420097671755" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>1060.3448275862067</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <parentTemplate>mobility</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="111" type="text" x="6387.386493601586" y="7498.793288915895" r="0" s="6.053423034032989" class="strong">
+      <height>32.68359375</height>
+      <width>435</width>
+      <p align="center">
+        <text><![CDATA[Example 4: Fly-out Sidebar ]]></text>
+      </p>
+    </object>
+    <object id="112" type="text" x="6144.2212436398895" y="8294.768945392852" r="0" s="5.033747866786048" class="body">
+      <height>196.1015625</height>
+      <width>422.6673982658875</width>
+      <p>
+        <text><![CDATA[• Desktop First]]></text>
+      </p>
+      <p>
+        <text><![CDATA[• Extra Markup]]></text>
+      </p>
+      <p>
+        <text><![CDATA[• Simplified Tier 2 Nav]]></text>
+      </p>
+      <p>
+        <text style="italic"><![CDATA[]]></text>
+      </p>
+      <p>
+        <text style="italic"><![CDATA[Try changing the Nav's position from off-screen left to off-screen right]]></text>
+      </p>
+    </object>
+    <object id="125" type="button" x="11369.677859862726" y="7635.078050804787" r="0" s="3.8629924854147872" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>1060.3448275862067</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <parentTemplate>mobility</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="126" type="text" x="11311.989343288287" y="6871.341327046438" r="0" s="7.6789718572462755" class="strong">
+      <height>32.68359375</height>
+      <width>435</width>
+      <p align="center">
+        <text><![CDATA[Example 4: JS ]]></text>
+      </p>
+    </object>
+    <object id="127" type="text" x="11300.15446417272" y="7955.357164622153" r="0" s="4.160122203955411" class="body">
+      <height>326.8359375</height>
+      <width>861.8715363669587</width>
+      <p>
+        <text><![CDATA[menuButton.onclick = function() { toggleSlide(); };]]></text>
+      </p>
+      <p>
+        <text><![CDATA[function toggleSlide() {]]></text>
+      </p>
+      <p>
+        <text><![CDATA[if (toggleState === 0) {]]></text>
+      </p>
+      <p indent="1">
+        <text><![CDATA[TweenMax.to(slideNavigation, 0.5, {left: '35%'});]]></text>
+      </p>
+      <p indent="1">
+        <text><![CDATA[toggleState = 1;]]></text>
+      </p>
+      <p indent="1">
+        <text><![CDATA[} else {]]></text>
+      </p>
+      <p indent="1">
+        <text><![CDATA[TweenMax.to(slideNavigation, 0.7, {left: '100%'});]]></text>
+      </p>
+      <p indent="1">
+        <text><![CDATA[toggleState = 0;]]></text>
+      </p>
+      <p indent="1">
+        <text><![CDATA[}]]></text>
+      </p>
+      <p>
+        <text><![CDATA[};]]></text>
+      </p>
+    </object>
+    <object id="128" type="button" x="14832.82145648566" y="3258.409437410127" r="0" s="3.0452420097671755" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>1060.3448275862067</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <parentTemplate>mobility</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="129" type="text" x="14787.344926355998" y="2656.3468746761623" r="0" s="6.053423034032989" class="strong">
+      <height>32.68359375</height>
+      <width>435</width>
+      <p align="center">
+        <text><![CDATA[Example 5: Fly-out Sidebar FB Style]]></text>
+      </p>
+    </object>
+    <object id="130" type="text" x="14779.626174240342" y="3447.2448124882794" r="0" s="5.033747866786048" class="body">
+      <height>228.78515625</height>
+      <width>525.4772691003396</width>
+      <p>
+        <text><![CDATA[• Mobile Only]]></text>
+      </p>
+      <p>
+        <text><![CDATA[• Calculate distances and reset on resize to solve orientation]]></text>
+      </p>
+      <p>
+        <text><![CDATA[• Change IOS Safari scroll behavior]]></text>
+      </p>
+      <p>
+        <text style="italic"><![CDATA[]]></text>
+      </p>
+      <p>
+        <text style="italic"><![CDATA[Try changing the Nav's position from off-screen left to off-screen right]]></text>
+      </p>
+    </object>
+    <object id="131" type="button" x="16671.68063233802" y="-853.9299157305647" r="0" s="3.0452420097671755" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>1060.3448275862067</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <parentTemplate>mobility</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="132" type="text" x="16626.20410220835" y="-1455.992478464531" r="0" s="6.053423034032992" class="strong">
+      <height>32.68359375</height>
+      <width>435</width>
+      <p align="center">
+        <text><![CDATA[Thank You! | Questions?]]></text>
+      </p>
+    </object>
+    <object id="133" type="text" x="16626.17519055927" y="-689.4344555214668" r="0" s="5.033747866786048" class="body">
+      <height>196.1015625</height>
+      <width>525.4772691003396</width>
+      <p align="center">
+        <text><![CDATA[Rachid Mrad]]></text>
+      </p>
+      <p align="center">
+        <text><![CDATA[]]></text>
+      </p>
+      <p align="center">
+        <text><![CDATA[@rachidmrad]]></text>
+      </p>
+      <p align="center">
+        <text><![CDATA[imagein-design.com]]></text>
+      </p>
+      <p align="center">
+        <text><![CDATA[rachidmrad.com]]></text>
+      </p>
+      <p align="center">
+        <text><![CDATA[rachid.mrad@gmail.com]]></text>
+      </p>
+    </object>
+    <object id="0_69364395" type="button" x="-16671.68063233802" y="3971.438906634042" r="0" s="3.045242009767175" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>1060.3448275862067</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <parentTemplate>mobility</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="4_69364395" type="image" x="-17655.118949926873" y="3716.44379676254" r="0" s="0.6848106684298836">
+      <source w="1000" h="1242">1245229463<url>1245229463.png</url></source>
+      <sourceUrl>Screen Shot 2014-02-01 at 1.43.22 PM.png</sourceUrl>
+    <resource><id>1245229463</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/a/1/5/0192d1083206af4ab84376dac93bca01ef1fa.png</url></resource></object>
+    <object id="5_69364395" type="image" x="-17187.392093388145" y="4165.653517457765" r="0" s="0.9979735365763294">
+      <source w="1002" h="1242">1245230978<url>1245230978.png</url></source>
+      <sourceUrl>Screen Shot 2014-02-01 at 1.43.33 PM.png</sourceUrl>
+    <resource><id>1245230978</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/4/1/b/77b0dcb147d49a0d5c6ad50de1ff7e1879ede.png</url></resource></object>
+    <object id="6_69364395" type="image" x="-16191.219399986649" y="3709.2461060858286" r="0" s="0.747414285873907">
+      <source w="1012" h="1192">1245233633<url>1245233633.png</url></source>
+      <sourceUrl>Screen Shot 2014-02-01 at 1.44.39 PM.png</sourceUrl>
+    <resource><id>1245233633</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/d/c/f/9fbe43b3eec847e9c5e36a8860610bc55bac4.png</url></resource></object>
+    <object id="7_69364395" type="image" x="-15803.097771957862" y="4158.271270609855" r="0" s="1.055138733410747">
+      <source w="1012" h="1190">1245234488<url>1245234488.png</url></source>
+      <sourceUrl>Screen Shot 2014-02-01 at 1.44.51 PM.png</sourceUrl>
+    <resource><id>1245234488</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/2/2/9/7e6c9d5ad706eb021b3b135ae8bd57d6d6664.png</url></resource></object>
+    <object id="8_69364395" type="text" x="-1891.1641126351071" y="10054.798156021425" r="0" s="4.134569383261382" class="strong">
+      <height>32.68359375</height>
+      <width>-169.7109375</width>
+      <p>
+        <text><![CDATA[• Fixed in IOS7]]></text>
+      </p>
+    </object>
+    <object id="9_69364395" type="button" x="-12952.45392862904" y="6460.180573763495" r="0" s="3.0452420097671755" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>1060.3448275862067</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <parentTemplate>mobility</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="10_69364395" type="text" x="-12513.368532408043" y="6596.204767081464" r="0" s="3.7819292763231034" class="body">
+      <height>261.46875</height>
+      <width>960.7100115745249</width>
+      <p>
+        <text><![CDATA[• ]]></text>
+        <text color="16744448" weight="bold"><![CDATA[Augmented Reality (AR)]]></text>
+      </p>
+      <p indent="1">
+        <text color="0"><![CDATA[• Google Glass]]></text>
+      </p>
+      <p indent="1">
+        <text><![CDATA[• In-Browser Creators: Layar]]></text>
+      </p>
+      <p indent="1">
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text><![CDATA[• ]]></text>
+        <text color="16744448" weight="bold"><![CDATA[New Mobile OS]]></text>
+      </p>
+      <p indent="1">
+        <text><![CDATA[• Jolla (Sailfish OS)]]></text>
+      </p>
+      <p indent="1">
+        <text><![CDATA[• Firefox OS]]></text>
+      </p>
+      <p indent="1">
+        <text><![CDATA[• Ubuntu]]></text>
+      </p>
+    </object>
+    <object id="11_69364395" type="text" x="-12997.930458758708" y="5858.11801102953" r="0" s="6.053423034032992" class="strong">
+      <height>32.68359375</height>
+      <width>435</width>
+      <p align="center">
+        <text><![CDATA[What's Next?]]></text>
+      </p>
+    </object>
+    <object id="12_69364395" type="button" x="-12952.234641189974" y="8500.651586130125" r="0" s="3.0452420097671755" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>1060.3448275862067</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <parentTemplate>mobility</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="15_69364395" type="youtube" x="-12952.566189085515" y="8500.139754207163" r="0" s="6.882442436762573" onFocus="start" onLeave="pause">
+      <source>y64ja7WBHU8</source>
+    </object>
+    <object id="17_69364395" type="button" x="-3756.346294038328" y="-10287.698602894528" r="0" s="3.045242009767175" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>1060.3448275862067</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <parentTemplate>mobility</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="18_69364395" type="text" x="-3801.8228241679967" y="-10889.76116562849" r="0" s="6.053423034032989" class="strong">
+      <height>32.68359375</height>
+      <width>435</width>
+      <p align="center">
+        <text><![CDATA[Testing]]></text>
+      </p>
+    </object>
+    <object id="20_69364395" type="image" x="-3801.707451077166" y="-9951.670016773658" r="0" s="1.1098099073169168">
+      <source w="2156" h="924">1245426013<mask x="862" y="94" w="1286" h="830"/>
+      <url>1245426013.png</url></source>
+      <sourceUrl>Screen Shot 2014-02-01 at 3.00.16 PM.png</sourceUrl>
+    <resource><id>1245426013</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/4/6/0/0dbcb02261e83bf75093822d03565761ae3f4.png</url></resource></object>
+    <object id="19_69364395" type="text" x="-3800.146267017823" y="-10561.812647502968" r="0" s="5.002828953746271" class="body">
+      <height>65.3671875</height>
+      <width>504.49674206171</width>
+      <p>
+        <text><![CDATA[• Firefox Web Developer]]></text>
+      </p>
+      <p>
+        <text><![CDATA[• Xcode]]></text>
+      </p>
+    </object>
+    <object id="1_69364395" type="button" x="4807.620206357963" y="58.54528468886855" r="0" s="3.682482653618637" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>1060.3448275862067</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <parentTemplate>mobility</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="3_69364395" type="text" x="4801.139340194321" y="238.21193141060274" r="0" s="5.030660224660045" class="strong">
+      <height>261.46875</height>
+      <width>634.7680169148587</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[RWD Concepts]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Speed]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Frameworks]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Navigation and UI Components]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Code Examples + Dev Considerations ]]></text>
+      </p>
+      <p listType="bullet" indent="2">
+        <text color="0" weight="normal"><![CDATA[(Queries, IE, Testing, Detect Mobile, Greensock...)]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Future of UI]]></text>
+      </p>
+      <p listType="bullet" indent="2">
+        <text color="0" weight="normal"><![CDATA[(AR, next OS)]]></text>
+      </p>
+    </object>
+    <object id="2_69364395" type="text" x="5735.436049152532" y="-754.71896970761" r="0" s="5.53372624712605" class="strong">
+      <height>32.68359375</height>
+      <width>-285.36328125</width>
+      <p>
+        <text color="0" weight="normal" style="italic"><![CDATA[prezi.com > explore > RWD]]></text>
+      </p>
+    </object>
+    <object id="13_69364395" type="text" x="3524.885822914022" y="-708.1281233805056" r="0" s="7.3653896349247745" class="head">
+      <height>28.8</height>
+      <width>-105.38400000000001</width>
+      <p>
+        <text><![CDATA[Overview]]></text>
+      </p>
+    </object>
+  </zui-table>
+  <background>
+    <layer depth="0" fadescale="0.21954357263995705">
+      <object id="background1025974219" type="image" x="2126.8750939601346" y="1674.0362675112426" r="0" s="20.355818370905087">
+        <source w="2112" h="1404">1025974219<url>1025974219.png</url></source>
+        <sourceUrl>mobility_bg2.png</sourceUrl>
+      <resource><id>1025974219</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/4/d/9/ad29d580e161f3b570bcc92abbdaa17e8d04f.png</url></resource></object>
+    </layer>
+  </background>
+  <path>
+    <s>
+      <eagle o="1"/>
+    </s>
+    <s>
+      <eagle o="1_69364395"/>
+    </s>
+    <s>
+      <eagle o="30"/>
+    </s>
+    <s>
+      <eagle o="38"/>
+    </s>
+    <s>
+      <eagle o="42"/>
+    </s>
+    <s>
+      <eagle o="0_69364395"/>
+    </s>
+    <s>
+      <eagle o="32"/>
+    </s>
+    <s>
+      <eagle o="24"/>
+    </s>
+    <s>
+      <eagle o="41"/>
+    </s>
+    <s>
+      <eagle o="54"/>
+    </s>
+    <s>
+      <eagle o="62"/>
+    </s>
+    <s>
+      <eagle o="65"/>
+    </s>
+    <s>
+      <eagle o="69"/>
+    </s>
+    <s>
+      <eagle o="76"/>
+    </s>
+    <s>
+      <eagle o="17_69364395"/>
+    </s>
+    <s>
+      <eagle o="79"/>
+    </s>
+    <s>
+      <eagle o="83"/>
+    </s>
+    <s>
+      <eagle o="88"/>
+    </s>
+    <s>
+      <eagle o="91"/>
+    </s>
+    <s>
+      <eagle o="95"/>
+    </s>
+    <s>
+      <eagle o="98"/>
+    </s>
+    <s>
+      <eagle o="107"/>
+    </s>
+    <s>
+      <eagle o="110"/>
+    </s>
+    <s>
+      <eagle o="125"/>
+    </s>
+    <s>
+      <eagle o="128"/>
+    </s>
+    <s>
+      <eagle o="9_69364395"/>
+    </s>
+    <s>
+      <eagle o="12_69364395"/>
+    </s>
+    <s>
+      <eagle o="131"/>
+    </s>
+    <s>
+      <eagle o="1"/>
+    </s>
+  </path>
+  <style type="text/css"><![CDATA[
+@font-face
+{
+	src: url('NotoSans-Regular.keg');
+	fontFamily: body;
+	font-class: body;
+	font-style: normal;
+	font-weight: normal;
+	font-family: NotoSans;
+}
+
+@font-face
+{
+	src: url('Heuristica-Bold.keg');
+	fontFamily: head;
+	font-class: head;
+	font-style: normal;
+	font-weight: bold;
+	font-family: Heuristica;
+}
+
+@font-face
+{
+	src: url('NotoSans-Bold.keg');
+	fontFamily: strong;
+	font-class: strong;
+	font-style: normal;
+	font-weight: bold;
+	font-family: NotoSans;
+}
+
+@font-face
+{
+	src: url('Arimo-Italic.keg');
+	fontFamily: undefined;
+	font-class: undefined;
+	font-style: italic;
+	font-weight: normal;
+	font-family: Arimo;
+}
+
+@font-face
+{
+	src: url('NotoSans-Italic.keg');
+	font-style: italic;
+	font-weight: normal;
+	font-family: NotoSans;
+}
+
+@font-face
+{
+	src: url('NotoSans-BoldItalic.keg');
+	font-style: italic;
+	font-weight: bold;
+	font-family: NotoSans;
+}
+
+@font-face
+{
+	src: url('Heuristica-Italic.keg');
+	font-style: italic;
+	font-weight: normal;
+	font-family: Heuristica;
+}
+
+@font-face
+{
+	src: url('Heuristica-BoldItalic.keg');
+	font-style: italic;
+	font-weight: bold;
+	font-family: Heuristica;
+}
+
+@font-face
+{
+	src: url('Heuristica-Regular.keg');
+	font-style: normal;
+	font-weight: normal;
+	font-family: Heuristica;
+}
+
+@font-face
+{
+	src: url('Arimo-BoldItalic.keg');
+	font-style: italic;
+	font-weight: bold;
+	font-family: Arimo;
+}
+
+@font-face
+{
+	src: url('Arimo-Regular.keg');
+	font-style: normal;
+	font-weight: normal;
+	font-family: Arimo;
+}
+
+@font-face
+{
+	src: url('Arimo-Bold.keg');
+	font-style: normal;
+	font-weight: bold;
+	font-family: Arimo;
+}
+
+.line1
+{
+	borderALpha: 0;
+	borderThickness: -1;
+	color: #c4d7d0;
+	gradEndAlpha: 1;
+	gradEndColor: #c4d7d0;
+	gradStartColor: #c4d7d0;
+}
+
+.line2
+{
+	borderALpha: 0;
+	borderThickness: -1;
+	color: #ff8963;
+	gradEndAlpha: 1;
+	gradEndColor: #ff8963;
+	gradStartColor: #ff8963;
+}
+
+.line3
+{
+	borderALpha: 0;
+	borderThickness: -1;
+	color: #04adf1;
+	gradEndAlpha: 1;
+	gradEndColor: #04adf1;
+	gradStartColor: #04adf1;
+}
+
+.line4
+{
+	borderALpha: 0;
+	borderThickness: -1;
+	color: #f2be4e;
+	gradEndAlpha: 1;
+	gradEndColor: #f2be4e;
+	gradStartColor: #f2be4e;
+}
+
+.line5
+{
+	borderALpha: 0;
+	borderThickness: -1;
+	color: #727272;
+	gradEndAlpha: 1;
+	gradEndColor: #727272;
+	gradStartColor: #727272;
+}
+
+.poly1
+{
+	borderALpha: 0;
+	borderThickness: 0;
+	color: #f8f8f8;
+	gradEndColor: #c4d7d0;
+	gradStartColor: #c4d7d0;
+}
+
+.poly2
+{
+	borderALpha: 0;
+	borderThickness: 0;
+	color: #f8f8f8;
+	gradEndAlpha: 1;
+	gradEndColor: #ff8963;
+	gradStartAlpha: 1;
+	gradStartColor: #ff8963;
+}
+
+.poly3
+{
+	borderALpha: 0;
+	borderThickness: 0;
+	color: #f8f8f8;
+	gradEndColor: #04adf1;
+	gradStartAlpha: 1;
+	gradStartColor: #04adf1;
+}
+
+.poly4
+{
+	borderALpha: 0;
+	borderThickness: 0;
+	color: #f8f8f8;
+	gradEndColor: #f2be4e;
+	gradStartAlpha: 1;
+	gradStartColor: #f2be4e;
+}
+
+.poly5
+{
+	borderALpha: 0;
+	borderThickness: 0;
+	color: #f8f8f8;
+	gradEndColor: #727272;
+	gradStartAlpha: 1;
+	gradStartColor: #727272;
+}
+
+Background
+{
+	gradEnd: #f8f8f8;
+	gradStart: #f8f8f8;
+}
+
+Grid
+{
+	color: #b5b5b5;
+}
+
+ZArrow
+{
+	borderAlpha: 1;
+	borderColor: #fff;
+	borderThickness: 1;
+	gradEndAlpha: 0;
+	gradEndColor: #fff;
+	gradStartAlpha: 1;
+	gradStartColor: #fff;
+	thickness: 10;
+}
+
+ZCircle
+{
+	borderAlpha: 0;
+	gradEndAlpha: 1;
+	gradStartAlpha: 1;
+	lockTintAlpha: 0;
+	radius: 0;
+	thickness: 100;
+}
+
+ZCurveLine
+{
+	color: #fff;
+}
+
+ZFrame.bracket
+{
+	borderAlpha: 0;
+	borderColor: #000;
+	borderThickness: 0;
+	gradEndAlpha: 1;
+	gradEndColor: #000;
+	gradStartAlpha: 1;
+	gradStartColor: #000;
+	padding: 1.03;
+	thickness: 2;
+}
+
+ZFrame.circle
+{
+	borderAlpha: 0;
+	borderColor: #ff802a;
+	borderThickness: 3;
+	gradEndAlpha: 1;
+	gradEndColor: #ff802a;
+	gradStartAlpha: 1;
+	gradStartColor: #ff802a;
+	padding: 1.03;
+	thickness: 9;
+}
+
+ZFrame.roundrect
+{
+	borderAlpha: .5;
+	borderColor: #777;
+	borderThickness: 4;
+	gradEndAlpha: 1;
+	gradEndColor: #fff;
+	gradStartAlpha: 1;
+	gradStartColor: #fff;
+	padding: 1.03;
+	radius: 0;
+}
+
+ZLabel
+{
+	lockTintAlpha: 0.15;
+	padding: 1.2;
+}
+
+ZLabel.body
+{
+	color: #333;
+	fontFamily: body;
+}
+
+ZLabel.body-background
+{
+	background-alpha: 0.9;
+	background-color: #e4e4dd;
+	background-padding: 6;
+}
+
+ZLabel.head
+{
+	color: #333;
+	fontFamily: head;
+}
+
+ZLabel.head-background
+{
+	background-alpha: 0.9;
+	background-color: #f2be4e;
+	background-padding: 6;
+}
+
+ZLabel.strong
+{
+	color: #ff802a;
+	fontFamily: strong;
+}
+
+ZLabel.strong-background
+{
+	background-alpha: 0.9;
+	background-color: #d3e2ee;
+	background-padding: 6;
+}
+
+ZLine
+{
+	color: #fff;
+}
+
+ZMarker
+{
+	alpha: 1;
+	color: #f0ea82;
+}
+
+ZPath
+{
+	alpha: 1;
+	color: #333;
+	textColor: #fff;
+	thickness: 3;
+}
+
+ZPath Ball.base
+{
+	alpha: 1;
+	fillColor: #333;
+	radius: 12;
+}
+
+ZPath Ball.mid
+{
+	alpha: .5;
+	fillColor: #333;
+	radius: 8;
+}
+
+ZPoly
+{
+	borderAlpha: 0;
+	gradEndAlpha: 1;
+	gradStartAlpha: 1;
+	lockTintAlpha: 0;
+	radius: 0;
+	thickness: 100;
+}
+
+]]></style>
+  <hash>6b5dffba</hash>
+<sync><oid>kbdgrgo1ne8s</oid><title>responsive-web-design-rwd-concepts</title><hash>6b5dffba</hash></sync><config>lFEYht9oxQcWKMhECFL+yCxDKbDkcQ4Hp0o/fRUauo/CMhGGcWko5oExF1N774YLbbt96XsFkVzAFTvGPdJh85lg6edIcIc4CxYMPVr9YQoTtvtIdZg6u7CyV/U3EHQTINyCrqBMO+9pS2pRU6rI08RfE/7Y8hoDmoG8Kiw6wwEJv3gacn0XXDPgK27nN/+x+ovI2ep08D137PEVzOpt48rrjM1OTbIzSG7mg7y+u1qAhORpWhpKlJM8hT1NshENGLNRyZC0FMJpjEMjCX0De3ThfyCvNSGtK1R9REcIhWxw81Wb35cRlkgwslZsJfUXudu3v2NpCUr2mXN2Ju1yyg==</config></zuiprezi>
